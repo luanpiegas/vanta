@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=ZorinGrey-Dark
-Comment=The dark desktop theme with grey highlights for Zorin OS
+Name=Vanta
+Comment=The dark desktop theme with blue highlights for Vanta
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=ZorinGrey-Dark
-MetacityTheme=ZorinGrey-Dark
-IconTheme=ZorinGrey-Dark
+GtkTheme=Vanta
+MetacityTheme=Vanta
+IconTheme=Vanta
 CursorTheme=Adwaita
 ButtonLayout=:minimize,maximize,close
